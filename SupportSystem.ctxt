@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SupportSystem
+comment1.params=
+comment1.target=SupportSystem()
+comment2.params=
+comment2.target=void\ start()
+comment3.params=
+comment3.target=void\ printWelcome()
+comment4.params=
+comment4.target=void\ printGoodbye()
+numComments=5
